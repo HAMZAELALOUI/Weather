@@ -1,9 +1,11 @@
 <a name="Weather Diagrams"></a>
 
 
+
 <br />
 <div align="center">
   <a href="https://github.com/HAMZAELALOUI/Weather">
+     <img src="cloudy.png" alt="Logo" width="80" height="80">
   </a>
 
    <h3 align="center">Weather Diagrams</h3>
@@ -70,4 +72,4 @@ Le projet vise à créer un portail d'informations météorologiques complet bas
 
 En conclusion, les diagrammes de cas d'utilisation, de classe et de séquence offrent une représentation complète et détaillée du projet de portail d'informations météorologiques. Ils facilitent la compréhension des interactions entre les utilisateurs et le système, la structure statique des composants, ainsi que le déroulement séquentiel des scénarios opérationnels. Ces outils visuels jouent un rôle essentiel dans la conception, la communication et la compréhension des fonctionnalités, contribuant ainsi à la réalisation d'un portail météorologique robuste et convivial, conforme aux exigences du cahier des charges initial.
 
-## Contributeurs
+
